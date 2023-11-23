@@ -3,6 +3,7 @@
 ### University of Ibadan, Ibadan.
 — B.Sc Statistics
 2014 - 2018
+
 Bachelor of Science Degree in Statistics
 
 ### Federal Polytechnics Ilaro, Ogun State.
