@@ -1,7 +1,7 @@
 title: Oluwatosin Oyekanmi
-logo: /assets/Salami PassPort.jpg
+# logo: /assets/Salami PassPort.jpg
 description: Dedicated professional with responsible data management, leadership and
 communication. Detail-oriented in problem solving and planning. Ready to
 make an immediate contribution to your organization.
-# show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal
